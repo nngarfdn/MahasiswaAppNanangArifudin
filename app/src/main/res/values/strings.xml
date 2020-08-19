@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MahasiswaAppNanangArifudin</string>
+    <string name="nama_mahasiswa">Nama Mahasiswa</string>
+    <string name="alamat_mahasiswa">Alamat Mahasiswa</string>
+    <string name="nomer_hp">Nomer HP</string>
+    <string name="tambah_mahasiswa">Tambah Mahasiswa</string>
+    <string name="simpan">Simpan</string>
+</resources>
